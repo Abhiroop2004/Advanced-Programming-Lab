@@ -1,7 +1,7 @@
 import java.applet.*;
 import java.awt.*;
 
-class ShapeApplet extends Applet 
+public class ShapeApplet extends Applet 
 {
     public void paint(Graphics g) 
     {
